@@ -16,3 +16,4 @@ jobs:
           orgname: ${{ vars.SNYK_ORG_NAME }}
           token: ${{ secrets.SNYK_SECRET }}
           language: LANGUAGE_C
+          
